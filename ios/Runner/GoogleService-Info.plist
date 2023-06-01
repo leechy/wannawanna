@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591311597406-u4ds3f6ll5r8ai5peijm6cm1p3teldfp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591311597406-u4ds3f6ll5r8ai5peijm6cm1p3teldfp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqKG2fxthq2T0KReC_QDPA_OzKT3-D6Qk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591311597406</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.leechylabs.wannawanna</string>
+	<key>PROJECT_ID</key>
+	<string>wanna-wanna</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wanna-wanna.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591311597406:ios:a138854be2673ba5d8e9cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://wanna-wanna.firebaseio.com</string>
+</dict>
+</plist>

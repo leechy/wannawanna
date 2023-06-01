@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591311597406",
+    "firebase_url": "https://wanna-wanna.firebaseio.com",
+    "project_id": "wanna-wanna",
+    "storage_bucket": "wanna-wanna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591311597406:android:e06834c9c1aaade7d8e9cf",
+        "android_client_info": {
+          "package_name": "com.leechylabs.wannawanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591311597406-8hu4ejc62p7m1jrgo15s5sbn1741e5gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoL-QluDTncvWeSxSjqOxm018uSaExk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591311597406-8hu4ejc62p7m1jrgo15s5sbn1741e5gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591311597406-92ck4ivrvbbi1cfmhqtgdg5cd1k99fhm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wannawanna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
